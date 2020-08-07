@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+
+Hey fellow nerds.
+I'm a beginner web developer aiming to get to expert level as quickly as I can.
